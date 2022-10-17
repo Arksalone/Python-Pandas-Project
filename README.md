@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving my python & SQL skill.**
 
-- 🌱 I’m currently learning **python, SQL, JAVASCRIPT and**
+- 🌱 I’m currently learning **PYTHON, SQL, JAVASCRIPT and**
 
 - 💬 Ask me about **HTML, CSS and EXCEL**
 
